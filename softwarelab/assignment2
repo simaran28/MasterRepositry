@@ -1,0 +1,18 @@
+#include<iostream>
+using namespace std;
+int main()
+{
+	int number1,number2,number3;
+	cout<<"enter value of number1"<<endl;
+	cin>>number1;
+	
+	cout<<"enter value of number2"<<endl;
+  	cin>>number2;
+  	
+	cout<<"enter value of number3"<<endl;
+	cin>>number3;
+	
+	cout<<"addition"<<endl;
+	cout<<number1+number2+number3;
+	return 0;
+}
